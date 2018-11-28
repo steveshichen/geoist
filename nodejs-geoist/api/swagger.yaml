@@ -14,12 +14,12 @@ info:
 host: "virtserver.swaggerhub.com"
 basePath: "/g526/geoist/1.0.0"
 tags:
-- name: "geoist"
+- name: "gravity"
   description: "openAPI on geoist"
   externalDocs:
     description: "Find out more"
     url: "http://swagger.io"
-- name: "store"
+- name: "pfm"
   description: "Access to Petstore orders"
 - name: "user"
   description: "Operations about user"
