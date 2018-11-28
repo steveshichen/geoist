@@ -4,18 +4,18 @@ info:
   description: "This is a sample Petstore server.  You can find \nout more about Swagger\
     \ at \n[http://swagger.io](http://swagger.io) or on \n[irc.freenode.net, #swagger](http://swagger.io/irc/).\n"
   version: "1.0.0"
-  title: "geoist Petstore"
+  title: "geoist openAPI"
   termsOfService: "http://swagger.io/terms/"
   contact:
-    email: "apiteam@swagger.io"
+    email: "chenshi@cea-igp.ac.cn"
   license:
     name: "Apache 2.0"
     url: "http://www.apache.org/licenses/LICENSE-2.0.html"
 host: "virtserver.swaggerhub.com"
 basePath: "/g526/geoist/1.0.0"
 tags:
-- name: "pet"
-  description: "Everything about your Pets"
+- name: "geoist"
+  description: "openAPI on geoist"
   externalDocs:
     description: "Find out more"
     url: "http://swagger.io"
